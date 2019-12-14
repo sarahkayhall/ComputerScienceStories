@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/finallist">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp"
+        android:fontFamily="@font/sniglet"
+        android:text="@string/themeScreenHeader"
+        android:textColor="#8B8484"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/codingbutton"
+        android:layout_width="331dp"
+        android:layout_height="72dp"
+        android:layout_below="@+id/textView6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:background="@color/colorPrimary"
+        android:fontFamily="@font/sniglet_extrabold"
+        android:text="coding"
+        android:textColor="#fefce6"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/technologybutton"
+        android:layout_width="331dp"
+        android:layout_height="72dp"
+        android:layout_below="@+id/codingbutton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:background="@color/colorPrimary"
+        android:fontFamily="@font/sniglet_extrabold"
+        android:text="technology"
+        android:textColor="#fefce6"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/professorbutton"
+        android:layout_width="331dp"
+        android:layout_height="72dp"
+        android:layout_below="@+id/technologybutton"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="26dp"
+        android:background="@color/colorPrimary"
+        android:fontFamily="@font/sniglet_extrabold"
+        android:text="professors"
+        android:textColor="#fefce6"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="331dp"
+        android:layout_height="72dp"
+        android:layout_below="@+id/professorbutton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorPrimary"
+        android:fontFamily="@font/sniglet_extrabold"
+        android:text="more coming soon..."
+        android:textColor="#FFFFFF"
+        android:textSize="24sp" />
+</RelativeLayout>

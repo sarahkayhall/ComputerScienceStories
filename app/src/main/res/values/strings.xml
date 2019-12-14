@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="titlePage">SHORT,\nSILLY,\nCOMPUTER SCIENCE STORIES</string>
+    <string name="titlePageShort">for the average (or not so average) cs nerd</string>
+    <string name="themeScreenHeader">Choose your story...</string>
+
+    <string name="code_langauge">Coding Language</string>
+    <string name="Adjective1">Adjective 1</string>
+    <string name="ProfessorName">An sitc Professor</string>
+    <string name="Adjective2">Adjective 2</string>
+    <string name="Noun1">Plural Noun</string>
+    <string name="Noun2">Noun</string>
+    <string name="button_send">I\'m Ready!</string>
+    <string name="InfoTitle2">short story!</string>
+    <string name="InfoTitle1">Story Theme:</string>
+    <string name="InfoTitle3">Input your word choices which should correspond with hint text to create your silly story.</string>
+    <string name="messagetitle">Your sitc Short Story</string>
+    <string name="thanks">Thanks For Reading!</string>
+
+</resources>
